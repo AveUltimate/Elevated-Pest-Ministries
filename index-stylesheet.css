@@ -1,0 +1,43 @@
+
+body{
+    background: linear-gradient(to top,skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img {
+    width: 500px;
+    border-radius: 100px;
+    float: right;
+    margin-left: 10px;
+    object-fit: cover;
+    margin-top: 20px;
+}
+h1{
+    font-weight: bold;
+    font-size: 6ch;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 3ch;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+button{
+    font-size: 50px;
+    border-color: black;
+    background: linear-gradient(skyblue,lightgreen) ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
